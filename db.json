@@ -1,47 +1,89 @@
 {
-    "schedule_id_1": {
-        "title": "example_title_1",
-        "description": "example_description_1",
-        "created_by": "example_creator_name_1",
-        "bucket_name": "example_bucket",
-        "created_at": "2020/02/28",
-        "file_path": ["/schedules/schedule_1/image1.jpg", "/schedules/schedule_1/image2.jpg", "/schedules/schedule_1/image3.jpg"],
-        "tags": ["#tag1", "#tag2", "#tag3"]
-    } ,  
-    "schedule_id_2": {
-        "title": "example_title_2",
-        "description": "example_description_2",
-        "created_by": "example_creator_name_2",
-        "bucket_name": "example_bucket",
-        "created_at": "2020/02/28",
-        "file_path": ["/schedules/schedule_2/image1.jpg", "/schedules/schedule_2/image2.jpg", "/schedules/schedule_2/image3.jpg"],
-        "tags": ["#tag4", "#tag5", "#tag6"]
-    },  
-    "schedule_id_3": {
-        "title": "example_title_3",
-        "description": "example_description_3",
-        "created_by": "example_creator_name_3",
-        "bucket_name": "example_bucket",
-        "created_at": "2020/02/28",
-        "file_path": ["/schedules/schedule_3/image1.jpg", "/schedules/schedule_3/image2.jpg", "/schedules/schedule_3/image3.jpg"],
-        "tags": ["#tag1", "#tag5", "#tag7"]
-    },   
-    "schedule_id_4": {
-        "title": "example_title_4",
-        "description": "example_description_4",
-        "created_by": "example_creator_name_4",
-        "bucket_name": "example_bucket",
-        "created_at": "2020/02/28",
-        "file_path": ["/schedules/schedule_4/image1.jpg", "/schedules/schedule_4/image2.jpg", "/schedules/schedule_4/image3.jpg"],
-        "tags": ["#tag8", "#tag9", "#tag3"]
-    },  
-    "schedule_id_5": {
-        "title": "example_title_5",
-        "description": "example_description_5",
-        "created_by": "example_creator_name_5",
-        "bucket_name": "example_bucket",
-        "created_at": "2020/02/28",
-        "file_path": ["/schedules/schedule_5/image1.jpg", "/schedules/schedule_5/image2.jpg", "/schedules/schedule_5/image3.jpg"],
-        "tags": ["#tag4", "#tag2", "#tag8"]
-    }   
+    "schedules": {
+        "schedule_id_1": {
+            "title": "example_title_1",
+            "description": "example_description_1",
+            "created_by": "example_creator_name_1",
+            "bucket_name": "example_bucket",
+            "created_at": "2020/02/28",
+            "file_path": [
+                "/schedules/schedule_1/image1.jpg",
+                "/schedules/schedule_1/image2.jpg",
+                "/schedules/schedule_1/image3.jpg"
+            ],
+            "tags": [
+                "#tag1",
+                "#tag2",
+                "#tag3"
+            ]
+        },
+        "schedule_id_2": {
+            "title": "example_title_2",
+            "description": "example_description_2",
+            "created_by": "example_creator_name_2",
+            "bucket_name": "example_bucket",
+            "created_at": "2020/02/28",
+            "file_path": [
+                "/schedules/schedule_2/image1.jpg",
+                "/schedules/schedule_2/image2.jpg",
+                "/schedules/schedule_2/image3.jpg"
+            ],
+            "tags": [
+                "#tag4",
+                "#tag5",
+                "#tag6"
+            ]
+        },
+        "schedule_id_3": {
+            "title": "example_title_3",
+            "description": "example_description_3",
+            "created_by": "example_creator_name_3",
+            "bucket_name": "example_bucket",
+            "created_at": "2020/02/28",
+            "file_path": [
+                "/schedules/schedule_3/image1.jpg",
+                "/schedules/schedule_3/image2.jpg",
+                "/schedules/schedule_3/image3.jpg"
+            ],
+            "tags": [
+                "#tag1",
+                "#tag5",
+                "#tag7"
+            ]
+        },
+        "schedule_id_4": {
+            "title": "example_title_4",
+            "description": "example_description_4",
+            "created_by": "example_creator_name_4",
+            "bucket_name": "example_bucket",
+            "created_at": "2020/02/28",
+            "file_path": [
+                "/schedules/schedule_4/image1.jpg",
+                "/schedules/schedule_4/image2.jpg",
+                "/schedules/schedule_4/image3.jpg"
+            ],
+            "tags": [
+                "#tag8",
+                "#tag9",
+                "#tag3"
+            ]
+        },
+        "schedule_id_5": {
+            "title": "example_title_5",
+            "description": "example_description_5",
+            "created_by": "example_creator_name_5",
+            "bucket_name": "example_bucket",
+            "created_at": "2020/02/28",
+            "file_path": [
+                "/schedules/schedule_5/image1.jpg",
+                "/schedules/schedule_5/image2.jpg",
+                "/schedules/schedule_5/image3.jpg"
+            ],
+            "tags": [
+                "#tag4",
+                "#tag2",
+                "#tag8"
+            ]
+        }
+    }
 }
