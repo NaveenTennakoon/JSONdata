@@ -1,6 +1,6 @@
 {
     "schedules": {
-        "schedule_id_1": {
+        "schedule1": {
             "title": "example_title_1",
             "description": "example_description_1",
             "created_by": "example_creator_name_1",
@@ -17,7 +17,7 @@
                 "#tag3"
             ]
         },
-        "schedule_id_2": {
+        "schedule2": {
             "title": "example_title_2",
             "description": "example_description_2",
             "created_by": "example_creator_name_2",
@@ -34,7 +34,7 @@
                 "#tag6"
             ]
         },
-        "schedule_id_3": {
+        "schedule3": {
             "title": "example_title_3",
             "description": "example_description_3",
             "created_by": "example_creator_name_3",
@@ -51,7 +51,7 @@
                 "#tag7"
             ]
         },
-        "schedule_id_4": {
+        "schedule4": {
             "title": "example_title_4",
             "description": "example_description_4",
             "created_by": "example_creator_name_4",
@@ -68,7 +68,7 @@
                 "#tag3"
             ]
         },
-        "schedule_id_5": {
+        "schedule5": {
             "title": "example_title_5",
             "description": "example_description_5",
             "created_by": "example_creator_name_5",
